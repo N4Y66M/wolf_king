@@ -5,31 +5,31 @@
 
 
 
-pkg upgrade
+# pkg upgrade
 
-pkg install python
+# pkg install python
 
-pkg install python2
+# pkg install python2
 
-pkg install openssl
+# pkg install openssl
 
-pkg install openssh
+# pkg install openssh
 
-pip2 install requests
+# pip2 install requests
 
-pip install rich
+# pip install rich
 
-pip install bs4
+# pip install bs4
 
-pip2 install mechanize
+# pip2 install mechanize
 
-pkg install git
+# pkg install git
 
-Git clone https://github.com/N4Y66M/wolf_king
+# Git clone https://github.com/N4Y66M/wolf_king
 
-cd wolf_king
+# cd wolf_king
 
-python wolf.py
+# python wolf.py
 
 
 
