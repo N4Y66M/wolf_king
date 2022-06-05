@@ -1,5 +1,5 @@
 # wolf_king
-OLD ID CLONER
+2008-2015 ID CLONER
 
 
 
@@ -30,6 +30,7 @@ Git clone https://github.com/N4Y66M/wolf_king
 cd wolf_king
 
 python wolf.py
+
 
 
 
