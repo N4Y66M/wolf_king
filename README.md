@@ -1,5 +1,7 @@
 # wolf_king
-Old id cloner
+OLD ID CLONER
+
+
 
 
 pkg upgrade
@@ -27,3 +29,8 @@ Git clone https://github.com/N4Y66M/wolf_king
 cd wolf_king
 
 python wolf.py
+
+
+
+
+Note: (This Tools Are Paid, So You Need Permission To Use This Tools Enjoy)
