@@ -4,6 +4,7 @@ OLD ID CLONER
 
 
 
+
 pkg upgrade
 
 pkg install python
