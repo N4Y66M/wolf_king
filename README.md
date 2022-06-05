@@ -11,10 +11,6 @@
 
 # pkg install python2
 
-# pkg install openssl
-
-# pkg install openssh
-
 # pip2 install requests
 
 # pip install rich
